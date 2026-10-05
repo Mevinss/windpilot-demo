@@ -13,6 +13,13 @@ Team hackathon prototype for railway dispatch decision support. It combines inci
 
 **Project stack:** Python, FastAPI, OR-Tools CP-SAT, SQLite and JavaScript. This is a simulation prototype; no operational railway deployment is claimed.
 
+### [Van Gogh / ML Scoring for Subsidy Applications](https://github.com/albina0dali/Van_Gogh)
+Team project awarded **2nd place at CyberShield 2026**. The system includes a training pipeline, application scoring, shortlists, explanations of scoring factors, regional reports and a demo web interface.
+
+The training code compares Logistic Regression, Random Forest, Gradient Boosting and XGBoost, with SMOTE, hyperparameter search and F1/ROC-AUC evaluation. The REST API uses Flask. This is a hackathon prototype; no production deployment or unverified accuracy is claimed.
+
+**Project stack:** Python, pandas, scikit-learn, XGBoost, Flask and REST APIs.
+
 ### [WindPilot / Wind Power Forecasting](https://github.com/Mevinss/windpilot-demo)
 Team Entropy project forecasting hourly normalized power for two turbines 24–48 hours ahead. The repository includes data preparation, weather features, gradient boosting, a FastAPI service and a dashboard with CSV export.
 
