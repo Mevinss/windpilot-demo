@@ -1,5 +1,7 @@
 # WindPilot — прогноз выработки ВЭС
 
+**About the developer:** [Aruzhan Serikpayeva — portfolio, skills and selected projects](PORTFOLIO.md)
+
 **Команда Entropy · HackAlem AI**
 
 WindPilot превращает прогноз погоды в почасовой прогноз относительной мощности двух ветротурбин на **24–48 часов**. Пользователь видит ожидаемую выработку, сравнивает расчёт с историческими измерениями и просматривает реальные шаги агента.
